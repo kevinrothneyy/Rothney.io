@@ -12,9 +12,10 @@
     
     <div class="container">
      <div class="row">
-       <div class="col-lg-4"><img src="img1.png"></div>
-       <div class="col-lg-4"><img src="img2.png"></div>
-       <div class="col-lg-4"><img src="img3.png"></div>
+       <div class="col-md-6" style="background-color:#aaa"><img src="img/img1.png"></div>
+       <div class="col-lg-4"><img src="img/img2.png"></div>
+       <div class="col-lg-4"><img src="img/img3.png"></div>
+       
        
  
   
