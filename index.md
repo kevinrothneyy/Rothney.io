@@ -12,10 +12,12 @@
     
     <div class="container">
      <div class="row">
-       <div class="col-md-6" style="background-color:#aaa"><img src="img/img1.jpg"></div>
+       <div class="col-lg-4"><img src="img/img1.jpg"></div>
        <div class="col-lg-4"><img src="img/img2.jpg"></div>
        <div class="col-lg-4"><img src="img/img3.jpg"></div>
        
+       <div class="col-mg-6" style="background-color:#aaa"></div>
+      
        
  
   
