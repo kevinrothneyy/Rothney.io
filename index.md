@@ -8,12 +8,12 @@
   <body>
     <h1>Titulo</h1>
     <h2>Titulo2</h2>
-    <p><a href="botones.html">Using custom go back and forward buttons
+    <p><a href="botones.php">Using custom go back and forward buttons</a></p>
     <div class="container">
      <div class="row">
        <div class="col-lg-4"><img src="img1.jpg"></div>
        <br>
-       <div class="col-mg-6" style="background-color:#aaa"><a href="botones.html">buton</a></div>
+       <div class="col-mg-6" style="background-color:#aaa"><a href="botones.php">buton</a></div>
      <br>
      <br>
      <button type="button" onclick="history.back();">Go back</button>
