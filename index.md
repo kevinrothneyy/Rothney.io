@@ -13,7 +13,9 @@
      <div class="row">
        <div class="col-lg-4"><img src="img1.jpg"></div>
        <div class="col-mg-6" style="background-color:#aaa"><a href="botones.html">Using custom go back and forward buttons
-      
+     
+     <button type="button" onclick="history.back();">Go back</button>
+     <button type="button" onclick="history.forward();">Go Forward</button>
        
  
   
