@@ -13,7 +13,7 @@
      <div class="row">
        <div class="col-lg-4"><img src="img1.jpg"></div>
        <br>
-       <div class="col-mg-6" style="background-color:#aaa"><a href="botones.html"></div>
+       <div class="col-mg-6" style="background-color:#aaa"></div><a href="botones.html">
      <br>
      <br>
      <button type="button" onclick="history.back();">Go back</button>
