@@ -15,7 +15,9 @@
        <br>
        <div class="col-mg-6" style="background-color:#aaa"><a href="botones.html">Using custom go back and forward buttons
      <br>
+     <br>
      <button type="button" onclick="history.back();">Go back</button>
+     <br>
      <button type="button" onclick="history.forward();">Go Forward</button>
        
  
