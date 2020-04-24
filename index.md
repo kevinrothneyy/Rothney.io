@@ -1,6 +1,8 @@
 <html>
   <head>
-    <meta charset=utf-8>
+    <link rel="stylesheet" href="css/boostrap.min.css">
+    <link rel="stylesheet" href="css/boostrap-theme.min.css">
+    <script src="js/boostrap.min.js"></script>
     <title>Titutlo</title>
   </head>
   <body>
