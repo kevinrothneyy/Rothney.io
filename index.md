@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang=es>
+<html>
   <head>
     <meta charset=utf-8>
     <title>Titutlo</title>
@@ -10,4 +9,5 @@
     <p></p>
   </body>
   </html>
+  
   
