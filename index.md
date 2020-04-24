@@ -16,15 +16,5 @@
        <div class="col-lg-4"><img src="img2.png"></div>
        <div class="col-lg-4"><img src="img3.png"></div>
        
-       <div class="col-lg-3"style="background-color:#aaa"><h3>Columna 1</3></div>
-       <div class="col-lg-3"style="background-color:#aaa"><h3>Columna 2</3></div>
-       <div class="col-lg-3"style="background-color:#aaa"><h3>Columna 3</3></div>
-       <div class="col-lg-3"style="background-color:#aaa"><h3>Columna 4</3></div>
-     </div>
-    </div>
-    
-    
-  </body>
-  </html>
-  
+ 
   
