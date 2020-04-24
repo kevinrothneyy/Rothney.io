@@ -13,8 +13,7 @@
     <div class="container">
      <div class="row">
        <div class="col-lg-4"><img src="img1.jpg"></div>
-       <div class="col-lg-4"><img src="..img/img2.jpg"></div>
-       <div class="col-lg-4"><img src="img3.jpg"></div>
+      
        
        <div class="col-mg-6" style="background-color:#aaa"></div>
       
