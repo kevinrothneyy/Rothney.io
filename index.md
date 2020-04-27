@@ -49,6 +49,7 @@
 		</table>
 	 <button type="button" onclick="history.back();">Go back</button>
          <button type="button" onclick="history.forward();">Go Forward</button>
-	 <script src="js/bootstrap.js"></script>
+	
+	<script src="js/bootstrap.js"></script>
 </body>
 </html>
