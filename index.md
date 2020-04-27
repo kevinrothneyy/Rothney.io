@@ -37,7 +37,7 @@
 			<tbody>
 				<tr>
 					<th>Peliculas</th>
-					<td>Fila 1 Columna 1</td>
+					<td>Fila 1 Columna 1f</td>
 					<td>Fila 1 Columna 2</td>
 				</tr>
 				<tr>
