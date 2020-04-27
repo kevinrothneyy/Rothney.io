@@ -4,7 +4,7 @@
 </head>
 <body> 
 	<div class="menu">
-<?php include 'menu.php';?>
+<?php include '../menu.php';?>
 </div>
 <br>
     <table>
