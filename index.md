@@ -8,7 +8,7 @@
 
 <body>
     <div class="reproductor">
-        <video width="641" height="360" src="videos/idontwannabeyouanymore.mp4" controls id="video" onended="siguienteVideo()">
+        <video width="641" height="360" src="video/1.mp4" controls id="video" onended="siguienteVideo()">
             <track src="sub/idontwannabeyouanymore_en.vtt" kind="subtitles" srclang="en" label="English" id="subIng" default>
             <track src="sub/idontwannabeyouanymore.es.vtt" kind="subtitles" srclang="es" label="Español" id="subEsp">
         </video>
