@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <title>Document</title>
 </head>
-<body>
-    <div>   
+<body> 
     <table border="1" style=”width: 100%”>
 			<caption>Holi de tabla</caption>
 			<colgroup>
@@ -41,6 +40,5 @@
 				</tr>
 			</tbody>
 		</table>
-    </div>
 </body>
 </html>
