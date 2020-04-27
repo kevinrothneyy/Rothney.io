@@ -3,6 +3,10 @@
     <meta charset="UTF-8">
 </head>
 <body> 
+	<div class="menu">
+<?php include 'menu.php';?>
+</div>
+<br>
     <table>
 			<thead>
 				<tr>
