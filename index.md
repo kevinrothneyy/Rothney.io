@@ -7,11 +7,11 @@
 			<thead>
 				<tr>
 					<th rowspan="2">Menu</th>
-					<th colspan="2">Paginas/th>
+					<th colspan="2">Paginas</th>
 				</tr>
 				<tr>
 					<th>PC</th>
-					<th>Ps3/th><a href="ps3.html"></a>
+					<th>Ps3</th><a href="ps3.html"></a>
 				</tr>
 			</thead>
 			<tfoot>
