@@ -3,6 +3,19 @@
     <meta charset="UTF-8">
 </head>
 <body> 
+	<aside>
+      <nav>
+        <h2>Elemento nav, "Categoria"</h2>
+          <ul>
+                <li><a href="ps3.html">pagina 1</a></li>
+                <li><a href="peli.html">pagina 2</a></li>
+                <li><a href="#">Categoria 3</a></li>
+                <li><a href="#">Categoria 4</a></li>
+                <li><a href="#">Categoria 5</a></li>
+          </ul>
+       
+ </nav> 
+    </aside>
 	<table>
 	  <thead>
 				<tr>
