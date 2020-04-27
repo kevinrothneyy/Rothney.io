@@ -22,7 +22,7 @@
                 nombre: 'Billie Eilish - idontwannabeyouanymore',
                 categoria: 'Música',
                 descripcion: 'La joven estrella pop nativa de Los Angeles, Billie Eilish, regresa con una maravillosa y profundamente introspectiva presentación de "idontwannabeyouanymore", sacado de su EP Debut Dont Smile at Me.',
-                src: 'videos/idontwannabeyouanymore.mp4',
+                src: '../videos/1.mp4',
                 subtitulos: {
                     ingles: 'sub/idontwannabeyouanymore_en.vtt',
                     espanol: 'sub/idontwannabeyouanymore.es.vtt'
@@ -32,7 +32,7 @@
                 nombre: 'Dennis Lloyd - Leftovers',
                 categoria: 'Música',
                 descripcion: 'El artista Dennis Lloyd, de Tel Aviv, toca "Leftovers", una canción que te enfrenta con errores, dolor y constantes manifestaciones de angustia.',
-                src: 'videos/leftovers.mp4',
+                src: '../videos/2.mp4',
                 subtitulos: {
                     ingles: 'sub/leftovers.en.vtt',
                     espanol: 'sub/leftovers.es.vtt'
