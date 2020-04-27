@@ -6,12 +6,12 @@
     <table>
 			<thead>
 				<tr>
-					<th rowspan="2">Tabla Avanzada</th>
-					<th colspan="2">Cabecera Múltiples Columnas</th>
+					<th rowspan="2">Menu</th>
+					<th colspan="2">Paginas/th>
 				</tr>
 				<tr>
-					<th>Primera Coool. Cab.</th>
-					<th>Segunda Col. Cab.</th>
+					<th>PC</th>
+					<th>Ps3/th><a href="ps3.html"></a>
 				</tr>
 			</thead>
 			<tfoot>
@@ -21,7 +21,7 @@
 			</tfoot>
 			<tbody>
 				<tr>
-					<th>Fila 1</th>
+					<th>Peliculas</th>
 					<td>Fila 1 Columna 1</td>
 					<td>Fila 1 Columna 2</td>
 				</tr>
