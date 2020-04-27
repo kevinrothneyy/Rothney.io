@@ -32,5 +32,7 @@
 				</tr>
 			</tbody>
 		</table>
+	 <button type="button" onclick="history.back();">Go back</button>
+         <button type="button" onclick="history.forward();">Go Forward</button>
 </body>
 </html>
