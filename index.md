@@ -16,11 +16,7 @@
             <p id="descripcion">La joven estrella pop nativa de Los Angeles, Billie Eilish, regresa con una maravillosa y profundamente introspectiva presentación de "idontwannabeyouanymore", sacado de su EP Debut Dont Smile at Me.</p>
         </div>
     </div>
-
-    <div id="contenedorVideos" class="contenedor">
-
-    </div>
-
+    <div id="contenedorVideos" class="contenedor"></div>
     <script>
         let videos = [{
                 nombre: 'Billie Eilish - idontwannabeyouanymore',
@@ -30,9 +26,7 @@
                 subtitulos: {
                     ingles: 'sub/idontwannabeyouanymore_en.vtt',
                     espanol: 'sub/idontwannabeyouanymore.es.vtt'
-
-                }
-
+              }
             },
             {
                 nombre: 'Dennis Lloyd - Leftovers',
@@ -42,9 +36,7 @@
                 subtitulos: {
                     ingles: 'sub/leftovers.en.vtt',
                     espanol: 'sub/leftovers.es.vtt'
-
                 }
-
             },
             {
                 nombre: 'Mahalia - Sober',
@@ -54,29 +46,19 @@
                 subtitulos: {
                     ingles: 'sub/sober.en.vtt',
                     espanol: 'sub/sober.es.vtt'
-
                 }
-
-
             },
         ];
         var videoActual = null;
-
         function cargar() {
-
             videoActual = videos[0];
-
             for (let i = 0; i < videos.length; i++) {
-
                 let video = videos[i];
                 agregarvideo(video, i);
-            }
-            
+            }     
             console.log(video);
         }
-
         function agregarvideo(video) {
-
             let texto = '<article class="estilo" ondblclick="cambiarVideo(' + videos.indexOf(video) + ')">';
             texto += '<span class="tooltiptext">' + video.descripcion + '</span>';
             texto += '<video width="150" height="150" src="' + video.src + '"> </video>';
@@ -87,8 +69,6 @@
             texto += '</article>';
             document.getElementById('contenedorVideos').innerHTML += texto;
         }
-
-
         function cambiarVideo(idVideo) {
             let nombre = document.getElementById('titulo');
             let categoria = document.getElementById('categoria');
@@ -105,30 +85,18 @@
             subIng.src = video.subtitulos.ingles;
             subEsp.src = video.subtitulos.espanol;
             videoActual = video;
-
-
         }
-
         function siguienteVideo() {
-
             let indiceActual = videos.indexOf(videoActual);
             let numeroVideos = videos.length;
             let idVideoNuevo;
-
             if (indiceActual < numeroVideos - 1) {
-
                 idVideoNuevo = indiceActual + 1;
-
             } else {
-
                 idVideoNuevo = 0;
-
             }
-
             cambiarVideo(idVideoNuevo);
-
         }
-
         window.onload = cargar();
     </script>
 </body>
