@@ -1,17 +1,10 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Document</title>
 </head>
 <body> 
-    <table border="1" style=”width: 100%”>
-			<caption>Holi de tabla</caption>
-			<colgroup>
-				<col style="width: 20%"/>
-				<col style="width: 40%"/>
-				<col style="width: 40%"/>
-			</colgroup>
+    <table>
 			<thead>
 				<tr>
 					<th rowspan="2">Tabla Avanzada</th>
