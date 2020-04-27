@@ -16,7 +16,7 @@
 			</thead>
 			<tfoot>
 				<tr>
-					<td colspan="3">Pie de tabla.</td>
+					<td colspan="3"><a href="peli.html">pelis</a></td>
 				</tr>
 			</tfoot>
 			<tbody>
