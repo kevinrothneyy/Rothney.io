@@ -11,7 +11,7 @@
 				</tr>
 				<tr>
 					<th>PC</th>
-					<th>Ps3</th><a href="ps3.html"></a>
+					<th><a href="ps3.html"></a></th>
 				</tr>
 			</thead>
 			<tfoot>
