@@ -1,5 +1,7 @@
 <html lang="en">
 <head>
+  <link rel="stylesheet" href="css/bootstrap.css">
+  <link rel="stylesheet" href="css/bootstrap-theme.css">
     <meta charset="UTF-8">
 </head>
 <body> 
@@ -47,6 +49,6 @@
 		</table>
 	 <button type="button" onclick="history.back();">Go back</button>
          <button type="button" onclick="history.forward();">Go Forward</button>
-	<?php include '../footer.php';?>
+	 <script src="/static/js/bootstrap.js"></script>
 </body>
 </html>
