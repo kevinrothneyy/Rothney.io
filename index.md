@@ -13,7 +13,7 @@
      <div class="row">
        <div class="col-lg-4"><img src="img1.jpg"></div>
        <br>
-       <div class="col-mg-6" style="background-color:#aaa"><a href="https://github.com/kevinrothneyy/Rothney.io/raw/master/ps3%20xploit.rar">buton</a></div>
+       <div class="col-mg-6" style="background-color:#aaa"><a href="https://github.com/kevinrothneyy/Rothney.io/raw/master/Img/ps3%20xploit.rar">buton</a></div>
      <br>
      <br>
      <button type="button" onclick="history.back();">Go back</button>
