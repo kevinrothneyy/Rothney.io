@@ -11,7 +11,7 @@
           <ul>
                 <li><a href="ps3.html">pagina 1</a></li>
                 <li><a href="peli.html">pagina 2</a></li>
-                <li><a href="#">Categoria 3</a></li>
+                <li><a href="Peliculas.html">peliculas</a></li>
                 <li><a href="#">Categoria 4</a></li>
                 <li><a href="#">Categoria 5</a></li>
           </ul>
